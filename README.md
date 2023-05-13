@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @JavierBorja99<br>👀 I’m interested in deplovement whit HTML and CSS<br>🌱 I’m currently learning CSS<br>💞️ I’m looking to collaborate on nothing<br>📫 How to reach me ...
+👋 Hi, I’m @JavierBorja99<br>👀 I’m interested in deplovement whit HTML and CSS<br>🌱 I’m currently learning CSS<br>📫 How to reach me ...
 
 
 ## 🌐 Socials:
