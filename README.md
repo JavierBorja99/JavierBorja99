@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Soy un estudiante de Ingeniería de Sistemas apasionado por el análisis de datos y creacion de Dashboards. 📊<br><br>En este espacio compartiré algunos de mis analisis y proyectos personales, enfocado en el mundo de las Finanzas y Entretenimiento. 🚀</p>
+<p align="left">Soy un estudiante de Ingeniería de Sistemas apasionado por el análisis de datos y creación de Dashboards. 📊<br><br>En este espacio compartiré algunos de mis análisis y proyectos personales, enfocado en el mundo de las Finanzas y Entretenimiento. 🚀</p>
 
 ###
 
-<h3 align="left">Tecnologias 🔧</h3>
+<h3 align="left">Tecnologías 🔧</h3>
 
 ###
 
@@ -47,7 +47,11 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://i.gifer.com/XOsX.gif"  />
+  <img height="150" src="https://i.gifer.com/XOsX.gif"  />
 </div>
+
+###
+
+<h2 align="center">Repositorios 📁👇</h2>
 
 ###
