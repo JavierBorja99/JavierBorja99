@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.gifer.com/XOsX.gif"  />
+  <img height="150" src="https://cdn.betterttv.net/emote/66f4b9e90c5685edb30bd17f/3x.webp"  />
 </div>
 
 ###
